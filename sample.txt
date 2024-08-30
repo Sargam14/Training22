@@ -1,3 +1,4 @@
 Welcome to linux programming 
-Linux fundamental
-linux toos
+Linux Fundamental
+Hello Everyone
+Nice1
