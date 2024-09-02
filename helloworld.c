@@ -3,7 +3,6 @@
 
 int main()
 {
-	printf("SArgam Saxena\n");
-	printf("Add: Keshav Nagar, Aligarh\n");
+	printf("Hello World!!/n");
 	return EXIT_SUCCESS;
 }
